@@ -1,8 +1,19 @@
 # 👋 Hi, I'm Treena Dutta Majumdar
 
-## About Me (Coming soon)
+## About Me 
+**Sr. Product Manager @ Lowe’s (Enterprise Data & AI – Legal), Previously scaled Product & Growth for APJ & EMEA @ Sprinklr, Ex-Dell EMC**
 
+Started as a Software Developer, evolved into a Technical Consultant, and now build 0-1 AI-driven products for enterprises.
 
+I specialize in building practical, scalable AI systems that solve real problems including:
+
+* **AI Agents** that automate complex business workflows
+* **RAG pipelines** grounded in enterprise knowledge
+* **Voice-AI systems** for conversational automation
+* **End‑to‑end workflow automations** for operations and data
+* **Social media & content automation** leveraging LLMs
+
+Working at the intersection of AI strategy, product, and automation. Partnering with teams and founders to build and integrate AI-powered solutions.
 
 ## 🧱 Prototypes & Projects (Coming soon)
 
