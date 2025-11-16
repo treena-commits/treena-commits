@@ -3,6 +3,7 @@
 ## About Me (Coming soon)
 
 
+
 ## 🧱 Prototypes & Projects (Coming soon)
 
 
@@ -28,20 +29,25 @@ I read a lot - books, blogs, newsletters, pretty much anything. It’s hard to d
 
 
 
+### 🛠️ Skills, Tech Stack & Expertise
 
-## 🛠️ Tech Stack & Tools
+* **Languages:** Python, Java, SQL
+* **Frameworks:** LangChain, LlamaIndex, Hugging Face
+* **Tools:** Looker, Power BI, Airtable, Replit, Cursor, Make, n8n
+* **Product Management:** Roadmapping, User Research, Analytics, GTM, Stakeholder Management, B2B-SaaS
+* **AI Skills:** GenAI, LLMs, RAG, Agents, MCP, Predictive ML
+* **LLM Platforms:** OpenAI, Gemini, DeepSeek, Hugging Face, TTS APIs
+* **Industries:** Social Media, Retail, Healthcare etc.
 
-
----
 
 ## 📬 Let’s Connect
 
-I’m open to consulting, collaborations, AI PM roles, or helping you automate a part of your business.
+I’m open to consulting, AI PM roles, or helping you automate a part of your business.
 
-**Email:** [treena.duttamajumdar@gmail.com / treena95d@gmail.com]
-**LinkedIn:** [https://www.linkedin.com/in/treena-dutta-majumdar/]
-**Twitter/X:** [https://x.com/Majumdar95d]
-**Substack:** [https://substack.com/@treenaduttamajumdar]
+Reach me on **[Email:](treena.duttamajumdar@gmail.com)** | **[LinkedIn:](https://www.linkedin.com/in/treena-dutta-majumdar/)** | **[X](https://x.com/Majumdar95d)**
+| **[Substack](https://substack.com/@treenaduttamajumdar)** 
+
+  
 
 ---
 
