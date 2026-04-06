@@ -44,7 +44,7 @@ I read a lot - books, blogs, newsletters, pretty much anything. It’s hard to d
 
 * **Languages:** Python, Java, SQL
 * **Frameworks:** LangChain, LlamaIndex, Hugging Face
-* **Tools:** Looker, Power BI, Airtable, Replit, Cursor, Make, n8n
+* **Tools:** Looker, Power BI, Airtable, Claude, Cursor, Make, n8n
 * **Product Management:** Roadmapping, User Research, Analytics, GTM, Stakeholder Management, B2B-SaaS
 * **AI Skills:** GenAI, LLMs, RAG, Agents, MCP, Predictive ML
 * **LLM Platforms:** OpenAI, Gemini, DeepSeek, Hugging Face, TTS APIs
